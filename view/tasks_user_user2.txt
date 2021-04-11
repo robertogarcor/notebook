@@ -1,0 +1,4 @@
+Task #3 - Fer la feina de casa ---> Completed | created ---> 2019-09-01 11:39:09 | updated ---> N/A
+Task #5 - task 5 ---> Completed | created ---> 2019-09-01 11:39:09 | updated ---> N/A
+Task #6 - task 6 ---> Not Completed | created ---> 2019-09-01 11:39:09 | updated ---> N/A
+Task #7 - task 7 ---> Completed | created ---> 2019-09-01 11:39:09 | updated ---> N/A
