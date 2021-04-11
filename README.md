@@ -35,7 +35,7 @@ Configurar fichero propiedades <a href="https://github.com/robertogarcor/noteboo
   <tr>
     <td><img src="https://github.com/robertogarcor/notebook/blob/main/images/update_task.PNG"></td>
     <td><img src="https://github.com/robertogarcor/notebook/blob/main/images/delete_task.PNG"></td>
-    <td><img src="https://github.com/robertogarcor/notebook/blob/main/images/donwload_task.PNG"></td>
+    <td><img src="https://github.com/robertogarcor/notebook/blob/main/images/download_task.PNG"></td>
   </tr>
 
 </table>
